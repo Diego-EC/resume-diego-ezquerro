@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/resume-diego-ezquerro/static/css/main.da616d3e.chunk.css",
+    "main.js": "/resume-diego-ezquerro/static/js/main.94a0ed8b.chunk.js",
+    "main.js.map": "/resume-diego-ezquerro/static/js/main.94a0ed8b.chunk.js.map",
+    "runtime-main.js": "/resume-diego-ezquerro/static/js/runtime-main.c92a4e66.js",
+    "runtime-main.js.map": "/resume-diego-ezquerro/static/js/runtime-main.c92a4e66.js.map",
+    "static/js/2.5fa45233.chunk.js": "/resume-diego-ezquerro/static/js/2.5fa45233.chunk.js",
+    "static/js/2.5fa45233.chunk.js.map": "/resume-diego-ezquerro/static/js/2.5fa45233.chunk.js.map",
+    "index.html": "/resume-diego-ezquerro/index.html",
+    "static/css/main.da616d3e.chunk.css.map": "/resume-diego-ezquerro/static/css/main.da616d3e.chunk.css.map",
+    "static/js/2.5fa45233.chunk.js.LICENSE.txt": "/resume-diego-ezquerro/static/js/2.5fa45233.chunk.js.LICENSE.txt",
+    "static/media/back.a60a2845.png": "/resume-diego-ezquerro/static/media/back.a60a2845.png",
+    "static/media/error.84b2cce7.wav": "/resume-diego-ezquerro/static/media/error.84b2cce7.wav",
+    "static/media/languages.9a789acb.png": "/resume-diego-ezquerro/static/media/languages.9a789acb.png",
+    "static/media/soft-skills.20ebb146.png": "/resume-diego-ezquerro/static/media/soft-skills.20ebb146.png",
+    "static/media/success.d59181a6.wav": "/resume-diego-ezquerro/static/media/success.d59181a6.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c92a4e66.js",
+    "static/js/2.5fa45233.chunk.js",
+    "static/css/main.da616d3e.chunk.css",
+    "static/js/main.94a0ed8b.chunk.js"
+  ]
+}

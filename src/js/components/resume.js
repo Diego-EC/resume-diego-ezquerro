@@ -60,6 +60,29 @@ const Resume = forwardRef((props, ref) => {
                 </thead>
                 <tbody>
                     <tr>
+                        <td className="text-detail">03/2021 - Present</td>
+                        <td className="text-detail">TEACHER ASSISTANT</td>
+                    </tr>
+                    <tr>
+                        <td className="text-detail">Remote</td>
+                        <td className="text-detail">4Geeks Academy</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td className="text-detail">Support in explanatory tasks, resolution of projects and exercises. The main programming languages and tools included are HTML5, CSS3, JavaScript, React, Bootstrap, GIT, Python, Flask, REST API's and SQL.</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <table className="table table-borderless">
+                <thead className="">
+                    <tr>
+                        <th className="td-left" scope="col"></th>
+                        <th className="td-right" scope="col"></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
                         <td className="text-detail">07/2018 - 07/2019</td>
                         <td className="text-detail">UNITY DEVELOPER</td>
                     </tr>
@@ -185,6 +208,7 @@ const Resume = forwardRef((props, ref) => {
                 <span className="skill text-detail">Flask</span>
                 <span className="skill text-detail">SQLAlchemy</span>
                 <span className="skill text-detail">Git</span>
+                <span className="skill text-detail">Django</span>
             </p>
         </div>
     );

@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/resume-diego-ezquerro/static/css/main.da616d3e.chunk.css",
-    "main.js": "/resume-diego-ezquerro/static/js/main.94a0ed8b.chunk.js",
-    "main.js.map": "/resume-diego-ezquerro/static/js/main.94a0ed8b.chunk.js.map",
+    "main.js": "/resume-diego-ezquerro/static/js/main.ae903dcd.chunk.js",
+    "main.js.map": "/resume-diego-ezquerro/static/js/main.ae903dcd.chunk.js.map",
     "runtime-main.js": "/resume-diego-ezquerro/static/js/runtime-main.c92a4e66.js",
     "runtime-main.js.map": "/resume-diego-ezquerro/static/js/runtime-main.c92a4e66.js.map",
     "static/js/2.5fa45233.chunk.js": "/resume-diego-ezquerro/static/js/2.5fa45233.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.c92a4e66.js",
     "static/js/2.5fa45233.chunk.js",
     "static/css/main.da616d3e.chunk.css",
-    "static/js/main.94a0ed8b.chunk.js"
+    "static/js/main.ae903dcd.chunk.js"
   ]
 }
